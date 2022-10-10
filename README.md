@@ -21,4 +21,5 @@ ___
 
 ___
 ## 그 외
-*  백준 골드5 달성
+*  백준 골드5 달성  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=penrose)](https://solved.ac/penrose/)
