@@ -1,5 +1,11 @@
 # 개발 경험
-1. 웹크롤링 다수 [▶ Repository](https://github.com/Xenrose/web-crawling)
+1. 웹크롤링 [▶ Repository](https://github.com/Xenrose/web-crawling)
+   * [네이버 쇼핑몰 리뷰 크롤링](https://github.com/Xenrose/web-crawling/tree/main/naver_shopping_review)
+   * [네이버 약품 검색 크롤링](https://github.com/Xenrose/web-crawling/tree/main/naver_pill_crawling)
+   * [네이버 블로그 크롤링](https://github.com/Xenrose/web-crawling/tree/main/naver_blog_crawler)
+   * [다음 영어사전 크롤링](https://github.com/Xenrose/web-crawling/tree/main/phonetic_alphabet)
+
+
 2. 주가예측 with LSTM  [▶ Repository](https://github.com/Xenrose/my_project/tree/main/LSTM_stock_price_prediction)
    * [keras ver](https://github.com/Xenrose/my_project/tree/main/LSTM_stock_price_prediction/tensorflow)
 
