@@ -5,6 +5,7 @@
      
    *  Simple-Model  
       * MLP with XOR gate ([python & numpy](https://github.com/Xenrose/my_project/blob/main/Simple-model/MLP_XOR/XOR_gate_python.ipynb))
+      * Simple-RNN with IMDB ([keras](https://github.com/Xenrose/my_project/tree/main/Simple-model/RNN))
       
 <br>
 
