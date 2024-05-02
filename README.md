@@ -6,7 +6,7 @@
    *  Simple-Model  
       * MLP with XOR gate ([python & numpy](https://github.com/Xenrose/my_project/blob/main/Simple-model/MLP_XOR/XOR_gate_python.ipynb))
       * Simple-RNN with IMDB ([keras](https://github.com/Xenrose/my_project/tree/main/Simple-model/RNN))
-      
+      * Simple-LSTM with IMDB ([keras](https://github.com/Xenrose/my_project/blob/main/Simple-model/LSTM/Simple-LSTM_keras.ipynb) / [pytorch](https://github.com/Xenrose/my_project/blob/main/Simple-model/LSTM/Simple-LSTM_pytorch.ipynb))  
 <br>
 
 ## 2. 웹크롤링 [▶ Repository](https://github.com/Xenrose/web-crawling)
