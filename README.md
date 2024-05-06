@@ -11,6 +11,8 @@
         > pytorch, keras / dataset: IMDB
       * > [LSTMCell & LSTM](https://github.com/Xenrose/my_project/blob/main/Simple-model/LSTM)  
         > pytorch, keras / dataset: IMDB
+      * > [GRUCell & GRU](https://github.com/Xenrose/my_project/blob/main/Simple-model/GRU)  
+        > pytorch, keras / dataset: IMDB
 <br>
 
 ## 2. 웹크롤링 [▶ Repository](https://github.com/Xenrose/web-crawling)
