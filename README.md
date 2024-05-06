@@ -1,12 +1,16 @@
 # 개발 경험
 
 ## 1. ML/DL  [▶ Repository](https://github.com/Xenrose/my_project)
-   * 주가예측 with LSTM ([keras ver](https://github.com/Xenrose/my_project/tree/main/LSTM_stock_price_prediction/keras))  
+   * > [LSTM 주가예측](https://github.com/Xenrose/my_project/tree/main/LSTM_stock_price_prediction/keras)  
+     > keras
      
    *  Simple-Model  
-      * MLP with XOR gate ([python & numpy](https://github.com/Xenrose/my_project/blob/main/Simple-model/MLP_XOR/XOR_gate_python.ipynb))
-      * Simple-RNN with IMDB ([keras](https://github.com/Xenrose/my_project/blob/main/Simple-model/RNN/Simple-RNN_keras.ipynb) / [pytorch](https://github.com/Xenrose/my_project/blob/main/Simple-model/RNN/Simple-RNN_pytorch.ipynb))
-      * Simple-LSTM with IMDB ([keras](https://github.com/Xenrose/my_project/blob/main/Simple-model/LSTM/Simple-LSTM_keras.ipynb) / [pytorch](https://github.com/Xenrose/my_project/blob/main/Simple-model/LSTM/Simple-LSTM_pytorch.ipynb))  
+      * > [MLP](https://github.com/Xenrose/my_project/tree/main/Simple-model/MLP_XOR)  
+        > numpy / XOR gate
+      * > [RNNCell & RNN](https://github.com/Xenrose/my_project/tree/main/Simple-model/RNN)  
+        > pytorch, keras / dataset: IMDB
+      * > [LSTMCell & LSTM](https://github.com/Xenrose/my_project/blob/main/Simple-model/LSTM)  
+        > pytorch, keras / dataset: IMDB
 <br>
 
 ## 2. 웹크롤링 [▶ Repository](https://github.com/Xenrose/web-crawling)
