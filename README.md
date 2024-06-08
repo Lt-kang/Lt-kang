@@ -17,7 +17,7 @@
 
 ## 2. 웹크롤링 [▶ Repository](https://github.com/Xenrose/web-crawling)
    * > [News 크롤러](https://github.com/Xenrose/web-crawling/tree/main/new_crawler)  
-     > Selenium, bs4, Threading, 병렬처리, schedule
+     > Selenium, bs4, Threading, 병렬처리, smtp, schedule
    * > [네이버 쇼핑몰 리뷰 크롤링](https://github.com/Xenrose/web-crawling/tree/main/naver_shopping_review)  
      > Selenium, bs4, Threading, 병렬처리, konply, 형태소 분석, WordCloud
    * >[네이버 약품 검색 크롤링](https://github.com/Xenrose/web-crawling/tree/main/naver_pill_crawling)  
