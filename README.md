@@ -13,6 +13,8 @@
         > pytorch, keras / dataset: IMDB
       * > [GRUCell & GRU](https://github.com/Xenrose/my_project/blob/main/Simple-model/GRU)  
         > pytorch, keras / dataset: IMDB
+      * > [CNN](https://github.com/Xenrose/my_project/blob/main/Simple-model/CNN)  
+        > pytorch / dataset: FashionMNIST
 <br>
 
 ## 2. 웹크롤링 [▶ Repository](https://github.com/Xenrose/web-crawling)
