@@ -2,7 +2,7 @@
 
 ## 1. ML/DL  [▶ Repository](https://github.com/Xenrose/my_project)
    * > [LSTM 주가예측](https://github.com/Xenrose/my_project/tree/main/LSTM_stock_price_prediction/keras)  
-     > keras
+     > keras + optuna(for hyper-parameter tune)
      
    *  Simple-Model  
       * > [MLP](https://github.com/Xenrose/my_project/tree/main/Simple-model/MLP_XOR)  
