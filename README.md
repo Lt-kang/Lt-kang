@@ -7,21 +7,25 @@
 |[LSTM 주가예측](https://github.com/Xenrose/my_project/tree/main/LSTM_stock_price_prediction)|pytorch, keras, optuna|LSTM을 활용한 주가 예측|Optuna for Hyperparameter tune|
 |[Auto-labeling](https://github.com/Xenrose/my_project/tree/main/auto-labeling)|yolo|yolo 모델을 활용한 auto bbox labeling||
 
+<br>
+
 ### B. Competition  
 |Competitions|Rank|ETC|
 |--|--|--|
 
-### C. Simple Modeling  
+<br>
+
+### C. Simple Modeling [▶ Repository](https://github.com/Xenrose/my_project/tree/main/Simple-model)
 |Model|FrameWork|Dataset|
 |--|--|--|
-|[MLP](https://github.com/Xenrose/my_project/tree/main/Simple-model/MLP_XOR)  |python & numpy |XOR gate|
+|[MLP](https://github.com/Xenrose/my_project/tree/main/Simple-model/MLP_XOR)  |numpy |XOR gate|
 |[RNNCell & RNN](https://github.com/Xenrose/my_project/tree/main/Simple-model/RNN)|pytorch, keras|IMDB|
 |[LSTMCell & LSTM](https://github.com/Xenrose/my_project/blob/main/Simple-model/LSTM)|pytorch, keras|IMDB|
 |[GRUCell & GRU](https://github.com/Xenrose/my_project/blob/main/Simple-model/GRU)  |pytorch, keras|IMDB|
 |[CNN](https://github.com/Xenrose/my_project/blob/main/Simple-model/CNN)  |pytorch|FashionMNIST| 
 
 <br>
-
+<br>
 
 
 ## 2. 웹크롤링 [▶ Repository](https://github.com/Xenrose/web-crawling)
