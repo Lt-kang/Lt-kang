@@ -1,6 +1,6 @@
 # 개발 경험
 
-## 1. Simple-Proejct  [▶ Repository](https://github.com/Xenrose/Simple-Project)
+## 1. Simple Proejct  [▶ Repository](https://github.com/Xenrose/Simple-Project)
 
 |Project Name|FrameWork|Descrioption|ETC|
 |--|--|--|--|
@@ -27,7 +27,7 @@
 <br>
 
 
-## 4. Web-Crawling [▶ Repository](https://github.com/Xenrose/Web-Crawling)
+## 4. Web Crawling [▶ Repository](https://github.com/Xenrose/Web-Crawling)
 |Project Name|Package|ETC|
 |--|--|--|
 |[News 크롤러](https://github.com/Xenrose/Web-Crawling/tree/main/new_crawler)|Selenium, bs4, Threading, smtp, schedule, sqlite3|sqlite3 DB & 사무자동화 & 병렬처리
