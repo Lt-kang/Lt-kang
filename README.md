@@ -5,7 +5,7 @@
 |Project Name|FrameWork|Descrioption|ETC|
 |--|--|--|--|
 |[LSTM 주가예측](https://github.com/Xenrose/Simple-Project/tree/main/LSTM_stock_price_prediction)|pytorch, keras, optuna|LSTM을 활용한 주가 예측|Optuna for Hyperparameter tune|
-|[Auto-labeling](https://github.com/Xenrose/Simple-Project/tree/main/auto-labeling)|yolo|yolo 모델을 활용한 auto bbox labeling||
+|[Auto-labeling-bbox](https://github.com/Xenrose/Simple-Project/tree/main/auto-labeling-bbox)|yolo|yolo 모델을 활용한 auto bbox labeling||
 
 <br>
 
