@@ -23,6 +23,7 @@
 |[LSTMCell & LSTM](https://github.com/Xenrose/Simple-Model/tree/main/LSTM)|pytorch, keras|IMDB|
 |[GRUCell & GRU](https://github.com/Xenrose/Simple-Model/tree/main/GRU)  |pytorch, keras|IMDB|
 |[CNN](https://github.com/Xenrose/Simple-Model/tree/main/CNN)  |pytorch|FashionMNIST| 
+|[AlexNet](https://github.com/Xenrose/Simple-Model/tree/main/AlexNet)  |pytorch|CIFAR10| 
 
 <br>
 
