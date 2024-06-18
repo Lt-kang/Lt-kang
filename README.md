@@ -24,6 +24,7 @@
 |[GRUCell & GRU](https://github.com/Xenrose/Simple-Model/tree/main/GRU)  |pytorch, keras|IMDB|
 |[CNN](https://github.com/Xenrose/Simple-Model/tree/main/CNN)  |pytorch|FashionMNIST| 
 |[AlexNet](https://github.com/Xenrose/Simple-Model/tree/main/AlexNet)  |pytorch|CIFAR10| 
+|[VGG-16&19](https://github.com/Xenrose/Simple-Model/tree/main/VGG-16%2619)  |pytorch|CIFAR10| 
 
 <br>
 
