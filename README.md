@@ -12,6 +12,10 @@
 ## 2. Competitions  [▶ Repository](https://github.com/Xenrose/Competitions)
 |Competition|Rank|ETC|
 |--|--|--|
+|[KAGGLE] PS S4 E5|369/2788 (13.2%)||
+|[KAGGLE] PS S4 E6|539/2684 (20.0%)||
+|[DACON] 웹로 로그 기반 조회수 예측 해커톤|85/361 (23.5%)|
+|[DACON] 고객 대출등급 분류 AI 해커톤|272/784 (34.6%)|
 
 <br>
 
