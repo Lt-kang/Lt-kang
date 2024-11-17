@@ -5,7 +5,6 @@
 |Project Name|FrameWork|Descrioption|ETC|
 |--|--|--|--|
 |[LSTM 주가예측](https://github.com/Xenrose/Simple-Project/tree/main/LSTM_stock_price_prediction)|pytorch, keras, optuna|LSTM을 활용한 주가 예측|Optuna for Hyperparameter tune|
-|[Auto-labeling-bbox](https://github.com/Xenrose/Simple-Project/tree/main/auto-labeling-bbox)|yolo|yolo 모델을 활용한 auto bbox labeling||
 
 <br>
 
@@ -36,7 +35,7 @@
 ## 4. Web Crawling [▶ Repository](https://github.com/Xenrose/Web-Crawling)
 |Project Name|Package|ETC|
 |--|--|--|
-|[News 크롤러](https://github.com/Xenrose/Web-Crawling/tree/main/new_crawler)|Selenium, bs4, Threading, smtp, schedule, sqlite3|sqlite3 DB & 사무자동화 & 병렬처리
+|[News 크롤러](https://github.com/Xenrose/Web-Crawling/tree/main/new_crawler_sqlite3)|Selenium, bs4, Threading, smtp, schedule, sqlite3|sqlite3 DB & 사무자동화 & 병렬처리
 |[네이버 쇼핑몰 리뷰](https://github.com/Xenrose/Web-Crawling/tree/main/naver_shopping_review) |Selenium, bs4, Threading, konply, WordCloud| 형태소 분석 & 워드 클라우드
 |[네이버 약품 검색](https://github.com/Xenrose/Web-Crawling/tree/main/naver_pill_crawling)  |Selenium, bs4
 |[네이버 블로그](https://github.com/Xenrose/Web-Crawling/tree/main/naver_blog_crawler)  |Selenium, bs4, Threading, konply | 병렬처리 & 형태소 분석
